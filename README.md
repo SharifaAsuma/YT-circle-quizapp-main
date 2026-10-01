@@ -242,8 +242,5 @@ st.bar_chart(df.set_index('問題'))
 - [Python入門](https://www.python.jp/train/index.html)
 - [Python チュートリアル](https://docs.python.org/ja/3/tutorial/)
 
-## 🤝 サポート
-
-わからないことがあったら、サポート役に声をかけてください！
 
 ## 📄 ファイル構成
